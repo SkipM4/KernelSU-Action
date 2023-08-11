@@ -17,7 +17,7 @@ env:
   device: olive
   defconfig: cherry-olive_defconfig
   use_aosp_clang: true
-  clang_version: 15
+  clang_version: 13
 
 jobs:
   check_kernelsu_update:
