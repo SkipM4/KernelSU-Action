@@ -16,7 +16,7 @@ env:
   kernel_branch: cherry/master
   device: olive
   defconfig: cherry-olive_defconfig
-  use_aosp_clang: false
+  use_aosp_clang: true
   clang_version: 15
 
 jobs:
