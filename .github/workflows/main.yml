@@ -13,7 +13,7 @@ on:
 
 env:
   kernel_repository: AkiraNoSushi/kernel_cherry_sdm439
-  kernel_branch: cherry/master
+  kernel_branch: cherry/binder-5.15
   device: olive
   defconfig: cherry-olive_defconfig
   use_aosp_clang: true
